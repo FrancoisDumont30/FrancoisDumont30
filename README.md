@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @François Dumont
-  
-- 👀 I’m interested in ...
+
 - 🌱 I’m currently learning Data engineering.
 
 
