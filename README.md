@@ -1,12 +1,40 @@
-- 👋 Hi, I’m @François Dumont
-
-- 🌱 I’m currently learning Data engineering.
 
 
-<!---
-FrancoisDumont30/FrancoisDumont30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# PROJECTS
 
-[Sentence Transformers tests](https://github.com/FrancoisDumont30/Sentence_transformers_test)
+Hi, I’m François 👋  
+I’m a Data engineer and this is my portfolio.  
+
+
+
+---
+  
+### PROJECTS
+🗽🚕[NYC Motor Vehicle Collisions Analysis](https://github.com/FrancoisDumont30/NY_Collision)   
+*Pandas, MatplotLib, Seaborn, Folium*    
+
+🐟🐈 [Sentence Transformers tests](https://github.com/FrancoisDumont30/Sentence_transformers_test)   
+*Pandas, sklearn, MatplotLib, Seaborn*    
+
+### Training
+**"Practice makes perfect"**  
+That’s how I approached my learning before graduation.  
+> Note: Some of the code is far from what I would write today.  
+
+
+[LeetCode profil](https://leetcode.com/u/FD30/)   
+*MySQL, Pandas, procedural Python*  
+
+[CodinGame profil](https://www.codingame.com/profile/0f31250724edee09948086f9459985195815885)   
+*Python, Bot algorythm*  
+
+
+[Codewars profil](https://www.codewars.com/users/FD@30)   
+*Python : procedural and OOP*  
+
+
+
+
+
+
+
+
