@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 --->
 # PROJECTS
 
-[Sentence Transformers tests]([https://github.com/propriétaire/dépôt](https://github.com/FrancoisDumont30/Sentence_transformers_test))
+[Sentence Transformers tests](https://github.com/FrancoisDumont30/Sentence_transformers_test)
