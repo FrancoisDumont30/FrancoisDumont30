@@ -8,6 +8,9 @@ I’m a Data engineer and this is my portfolio.
 *Mistral LLM : Structured-outputs, OCR, Prompting*    
 *Llama_index : Retrieval Optimization with Metadata filtering, Reranking, Vector Storage*  
 
+💹📊 [Power BI](https://github.com/FrancoisDumont30/Power_BI)  
+*Pandas : ETL*  
+*Power BI : Dynamic filters, maps, DAX,...*  
 
 🗽🚕[NYC Motor Vehicle Collisions Analysis](https://github.com/FrancoisDumont30/NY_Collision)   
 *Pandas, MatplotLib, Seaborn, Folium*    
